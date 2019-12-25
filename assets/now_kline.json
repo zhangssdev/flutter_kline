@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "currentTime":1568678400,
+      "sellOutPrice":1505.95
+    },
+    {
+      "currentTime":1568778400,
+      "sellOutPrice":1506.95
+    },
+    {
+      "currentTime":1568878400,
+      "sellOutPrice":1507.95
+    },
+    {
+      "currentTime":1568978400,
+      "sellOutPrice":1508.95
+    },
+    {
+      "currentTime":1569078400,
+      "sellOutPrice":1509.95
+    },
+    {
+      "currentTime":1569178400,
+      "sellOutPrice":1510.95
+    }
+  ]
+}
